@@ -1,7 +1,7 @@
 # Lógica
 Este repositório foi criado com o intuito de aplicar conhecimentos adquiridos ao longo do estudo da lógica formal na área da programação.
 
-## Sobre Lógica
+## A Lógica
 A lógica é um importante campo de estudos, que permite por exemplo para aquele que o estude desenvolver argumentos concisos e provar que eles são válidos. Em um ambiente moderno onde a ciência é parte da vida de todos, o desenvolvimento e a prova de teorias são aspectos importantíssimos para o amadurecimento da ciência.
 
 ### Onde Encontrar a Lógica
@@ -40,7 +40,7 @@ Esse repositório foi criado inicialmente com um conjunto de programas com um gr
 
 Destaca-se aqui que pretende-se expandir esse repositório com outros programas, dando continuidade a aplicação da lógica formal na programação, algo que começou como uma atividade curricular de graduação, mas tem potencial para ir além.
 
-### RECURSOS
+### Recursos
 - __Linguagem:__ Atualmente a linguagem usada para desenvolver os programas é Python (Versão 3.8.5)
 * __Referências Bibliográficas:__
   * TELLER, Paul. A Modern Formal Logic Primer. Davis: Prentice Hall, 1989. 2 v. Disponível em: https://tellerprimer.ucdavis.edu/.
