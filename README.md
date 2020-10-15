@@ -1,5 +1,5 @@
 # Lógica
-Este repositório foi criado com o intuito de aplicar conhecimentos adquiridos ao longo do estudo da lógica formal na área da programação.
+Este repositório foi criado com o intuito de aplicar conhecimentos adiquiridos ao longo do estudo da lógica formal na área da programação.
 
 ## A Lógica
 A lógica é um importante campo de estudos, que permite por exemplo para aquele que o estude desenvolver argumentos concisos e provar que eles são válidos. Em um ambiente moderno onde a ciência é parte da vida de todos, o desenvolvimento e a prova de teorias são aspectos importantíssimos para o amadurecimento da ciência.
